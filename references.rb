@@ -112,7 +112,10 @@ loop do
 		Journal.new(a,j,y,v,i,ps,pe).transform
 		Reference.new(Author.all, Journal.all)
 	else
-		File.open('workcited.txt', 'a') { |f|
+		print 'File name? '
+		filename = gets.chomp.downcase
+		File.open("#{filename}.txt", 'w') { |f|
+			f.puts "Work Cited"
 			f.puts Reference.all
 		}
 		break
