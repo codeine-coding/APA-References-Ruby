@@ -12,5 +12,4 @@ periodical online, use the URL of the website from which you are retrieving the 
 <tt>
 Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. *Title of Periodical*,
     *volume number*(issue number), pages.
-    http://dx.doi.org/xx.xxx/yyyyy
 </tt>
