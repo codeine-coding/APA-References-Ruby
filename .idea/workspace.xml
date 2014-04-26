@@ -43,10 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="apa_helper.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="apa_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/apa_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="54" selection-start="815" selection-end="815" vertical-scroll-proportion="0.25075987" vertical-offset="396" max-vertical-offset="1054">
+            <state line="28" column="21" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1054">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_work_cited_output.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample_work_cited_output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.28419453" vertical-offset="0" max-vertical-offset="658">
               <folding />
             </state>
           </provider>
@@ -79,6 +88,7 @@
         <option value="$PROJECT_DIR$/lib/classes.rb" />
         <option value="$PROJECT_DIR$/lib/apa_helper.rb" />
         <option value="$PROJECT_DIR$/references.rb" />
+        <option value="$PROJECT_DIR$/sample_work_cited_output.txt" />
       </list>
     </option>
   </component>
@@ -319,7 +329,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/apa_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="54" selection-start="815" selection-end="815" vertical-scroll-proportion="0.25075987" vertical-offset="396" max-vertical-offset="1054">
+        <state line="28" column="21" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_work_cited_output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.28419453" vertical-offset="0" max-vertical-offset="658">
           <folding />
         </state>
       </provider>
