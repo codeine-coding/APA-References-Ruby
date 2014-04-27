@@ -22,40 +22,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="apa_helper.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/apa_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="899" selection-end="899" vertical-scroll-proportion="-9.52" vertical-offset="0" max-vertical-offset="340">
+            <state line="28" column="21" selection-start="0" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1054">
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="references.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/references.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="6" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apa_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/apa_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="21" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sample_work_cited_output.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sample_work_cited_output.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.28419453" vertical-offset="0" max-vertical-offset="658">
+            <state line="1" column="0" selection-start="34" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
@@ -64,7 +43,16 @@
       <file leaf-file-name="classes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/classes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+            <state line="53" column="24" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="583" max-vertical-offset="1241">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_work_cited_output.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sample_work_cited_output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.2325228" vertical-offset="0" max-vertical-offset="658">
               <folding />
             </state>
           </provider>
@@ -80,14 +68,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test2.rb" />
         <option value="$PROJECT_DIR$/workcited.txt" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/workcited.rtf" />
-        <option value="$PROJECT_DIR$/test.rb" />
-        <option value="$PROJECT_DIR$/lib/classes.rb" />
         <option value="$PROJECT_DIR$/lib/apa_helper.rb" />
         <option value="$PROJECT_DIR$/references.rb" />
+        <option value="$PROJECT_DIR$/lib/test2.rb" />
+        <option value="$PROJECT_DIR$/test2.rb" />
+        <option value="$PROJECT_DIR$/test.rb" />
+        <option value="$PROJECT_DIR$/w.txt" />
+        <option value="$PROJECT_DIR$/lib/classes.rb" />
         <option value="$PROJECT_DIR$/sample_work_cited_output.txt" />
       </list>
     </option>
@@ -154,6 +144,11 @@
     <property name="options.searchVisible" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\row\APA References" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
@@ -305,7 +300,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="899" selection-end="899" vertical-scroll-proportion="-9.52" vertical-offset="0" max-vertical-offset="340">
+        <state line="14" column="5" selection-start="899" selection-end="899" vertical-scroll-proportion="0.37598735" vertical-offset="0" max-vertical-offset="633">
           <folding />
         </state>
       </provider>
@@ -313,30 +308,30 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/apa_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="21" selection-start="0" selection-end="1298" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/references.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="6" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+        <state line="1" column="0" selection-start="34" selection-end="252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/classes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/apa_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="646" selection-end="646" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="1054">
+        <state line="53" column="24" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="583" max-vertical-offset="1241">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sample_work_cited_output.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="460" selection-end="460" vertical-scroll-proportion="0.28419453" vertical-offset="0" max-vertical-offset="658">
+        <state line="9" column="0" selection-start="406" selection-end="406" vertical-scroll-proportion="0.2325228" vertical-offset="0" max-vertical-offset="658">
           <folding />
         </state>
       </provider>

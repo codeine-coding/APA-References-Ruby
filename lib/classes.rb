@@ -51,17 +51,17 @@ class Journal
 end
 
 class Reference
-	$references = Array.new
+	$references = Hash.new
 	def initialize(author, journal)
 		@author = author
 		@journal = journal
-		@full_reference = "#{@author} #{@journal}"
-		$references << @full_reference
+		@full_reference = {"#{@author}" => "#{@journal}"}
+		$references.merge!(@full_reference)
 	end
 
 	def self.all
-		$references.collect { |r|
-			"\n#{r}\n"
-		}
+		$references.sort.map do |key,value|
+			"\n#{key} #{value}\n"
+		end
 	end
 end
