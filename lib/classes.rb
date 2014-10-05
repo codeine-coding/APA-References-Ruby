@@ -2,9 +2,15 @@ class Author
 	$authors = Array.new
 	def initialize(first, middle, last)
 		@first = first[0].capitalize
-		@middle = middle[0].capitalize
+		if middle.nil?
+			@middle = middle[0].capitalize
+		end
 		@last = last.capitalize
-		@name = "#{@last}, #{@middle}. #{@first}."
+		if middle.nil?
+			@name = "#{@last},  #{@middle}. #{@first}."
+		else
+			@name = "#{@last}, #{@first}."
+		end
 		$authors << @name
 	end
 
